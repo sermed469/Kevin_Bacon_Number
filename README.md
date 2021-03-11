@@ -1,1 +1,1 @@
-# Kevin_Bacon_Number
+# Kevin Bacon Number
